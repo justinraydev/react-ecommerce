@@ -17,7 +17,7 @@ const Navbar = ({totalItems}) => {
     const classes = useStyles();
     const location = useLocation();
 
-x
+
     return (
         <>
             <AppBar position="fixed" className={classes.appBar} color="inherit">
